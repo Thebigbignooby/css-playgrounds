@@ -1,0 +1,21 @@
+:root {
+	/* COLORS */
+	--clr-brand: hsl(300, 90%, 50%);
+
+	--clr-brand-10: hsl(300, 90%, 10%);
+	--clr-brand-20: hsl(300, 90%, 20%);
+	--clr-brand-30: hsl(300, 90%, 30%);
+	--clr-brand-40: hsl(300, 90%, 40%);
+	--clr-brand-50: hsl(300, 90%, 50%);
+	--clr-brand-60: hsl(300, 90%, 60%);
+	--clr-brand-70: hsl(300, 90%, 70%);
+	--clr-brand-80: hsl(300, 90%, 80%);
+	--clr-brand-90: hsl(300, 90%, 90%);
+
+	/* SCREEN PADDING */
+	--padding-x: 5px;
+
+	/* FONT */
+
+	/* TYPOGRAPHY */
+}
